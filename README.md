@@ -82,8 +82,8 @@ Cada estrategia se encuentra en su propia carpeta con una explicación detallada
 
 1.  Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/optimizacion-desempeno-cache-redis.git
-    cd optimizacion-desempeno-cache-redis
+    git clone https://github.com/khaeldev/cache-strategy.git
+    cd cache-strategy
     ```
 
 2.  Inicia el contenedor de Redis:
